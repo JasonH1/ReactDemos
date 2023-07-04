@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es5",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+      "module": "commonjs",                                /* Specify what module code is generated. */
+      "sourceMap": true,                                /* Create source map files for emitted JavaScript files. */
+      "outDir": "scripts/",                                   /* Specify an output folder for all emitted files. */
+      "noImplicitAny": false,                            /* Enable error reporting for expressions and declarations with an implied 'any' type. */
+    }
+  }
+  
